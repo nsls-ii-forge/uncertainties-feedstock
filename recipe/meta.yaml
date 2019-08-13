@@ -1,6 +1,6 @@
 {% set name = "uncertainties" %}
 {% set version = "3.1.2" %}
-{% set sha = ba07c17a8a78cb58a47cd373079c7ea459f8b26cd474e29163b6ba0d72856a1e %}
+{% set sha256 = "ba07c17a8a78cb58a47cd373079c7ea459f8b26cd474e29163b6ba0d72856a1e" %}
 
 package:
     name: {{ name }}
@@ -9,7 +9,7 @@ package:
 source:
   fn: {{ name }}-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/u/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: {{ sha }}
+  sha256: {{ sha256 }}
 
 build:
   noarch: python
