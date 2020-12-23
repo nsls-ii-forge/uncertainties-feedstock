@@ -5,11 +5,9 @@ Home: https://pypi.python.org/pypi/uncertainties
 
 Package license: BSD 3-Clause
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/nsls-ii-forge/uncertainties-feedstock/blob/master/LICENSE.txt)
 
 Summary: Transparent calculations with uncertainties on the quantities involved (aka "error propagation"); fast calculation of derivatives.
-
-
 
 Current build status
 ====================
