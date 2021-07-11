@@ -1,6 +1,6 @@
 {% set name = "uncertainties" %}
-{% set version = "3.1.5" %}
-{% set sha256 = "9122c1e7e074196883b4a7a946e8482807b2f89675cb5e3798b87e0608ede903" %}
+{% set version = "3.1.6" %}
+{% set sha256 = "7c4db5aaafd227e95485b61fba5d235dc8133aeecd98f8fc1224c038ce063e2d" %}
 
 package:
   name: {{ name|lower }}
